@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "expres": "^0.0.5",
+    "express": "^4.17.2",
+    "ffi-napi": "^4.0.3",
+    "instagram-node": "^0.5.8",
+    "node-static": "^0.7.11",
+    "part": "^0.1.1",
+    "pug": "^3.0.2",
+    "utf8": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "test",
+  "version": "1.0.0",
+  "description": "ivan_test",
+  "main": "server.js",
+  "author": "ivan",
+  "license": "ISC"
+}

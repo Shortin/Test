@@ -1,0 +1,11 @@
+﻿  UsersData.cpp
+C:\Users\Me\source\repos\UsersData\UsersData\UsersData.cpp(2,1): warning C4005: UNICODE: изменение макроопределения
+C:\Users\Me\source\repos\UsersData\UsersData\UsersData.cpp : message : см. предыдущее определение "UNICODE"
+C:\Users\Me\source\repos\UsersData\UsersData\UsersData.cpp(2): warning C4603: UNICODE: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+C:\Users\Me\source\repos\UsersData\UsersData\UsersData.cpp(2): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+C:\Users\Me\source\repos\UsersData\UsersData\UsersData.cpp(6): message : использование предварительно скомпилированного заголовка
+C:\Users\Me\source\repos\UsersData\UsersData\UsersData.cpp(14,1): warning C4273: datausers: несовместимое связывание dll
+C:\Users\Me\source\repos\UsersData\UsersData\UsersData.h(16,29): message : см. предыдущее определение "datausers"
+C:\Users\Me\source\repos\UsersData\UsersData\UsersData.cpp(36,28): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека C:\Users\Me\source\repos\UsersData\Debug\UsersData.lib и объект C:\Users\Me\source\repos\UsersData\Debug\UsersData.exp
+  UsersData.vcxproj -> C:\Users\Me\source\repos\UsersData\Debug\UsersData.dll
